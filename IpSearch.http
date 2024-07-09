@@ -1,0 +1,6 @@
+@IpSearch_HostAddress = http://localhost:5141
+
+GET {{IpSearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

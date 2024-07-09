@@ -1,2 +1,2 @@
 # IpSearch
-使用ip2location库进行查询.
+使用GeoLite库进行查询.
