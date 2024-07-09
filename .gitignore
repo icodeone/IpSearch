@@ -1,0 +1,15 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/IpSearch/config
+/.vs/IpSearch/DesignTimeBuild
+/.vs/ProjectEvaluation
+/bin/Debug/net8.0
+/bin/Debug/net8.0/Data/GeoLite2-ASN.mmdb
+/obj
+/Properties
+/Data
+/.vs/IpSearch/FileContentIndex
+/.vs/IpSearch/v17
+/IpSearch.csproj.user
